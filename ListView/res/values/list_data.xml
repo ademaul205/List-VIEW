@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="theHeranList">
+    	<item>Java Documentation</item>
+    	<item>Java Programming</item>
+    	<item>Android Programing</item>
+    	<item>Swing Programming</item>
+    	<item>News Java</item>
+    	<item>The Heran</item>
+    </string-array>
+</resources>
